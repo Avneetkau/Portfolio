@@ -1,0 +1,44 @@
+@import "../../vars.css";
+.container{
+   background: var(--color-secondary);
+   margin-top:120px;
+    color:var(--color-text);
+     display:flex;
+    justify-content:space-evenly;
+    width:100vw;
+    padding:58px 10%;
+    gap:10px;
+    align-items:center;
+}
+.text h2{
+    font-family: Outfit;
+font-size: 80px;
+font-weight: 700;
+letter-spacing: 4px;
+
+}
+.text p{
+    font-size:40px;
+    font-weight:400;
+    letter-spacing:2px;
+}
+.links{
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+    list-style:none;
+    gap:26px;
+
+}
+.linkItem{
+    display:flex;
+    align-items:center;
+    gap:25px;
+}
+.linkItem a{
+    color:var(--color-text);
+    text-decoration:none;
+    font-size:30px;
+    font-weight:400;
+    letter-spacing:1.5px;
+}

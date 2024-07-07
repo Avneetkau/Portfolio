@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Sports Requistion Project",
+      "imageSrc": "projects/powergrid.png",
+      "description": "Developed an Online Sports Requisition form for Poergrid Employees.",
+      "skills": ["HTML", "CSS", "Javascript", "PHP","SQL"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "To-Do-List",
+      "imageSrc": "projects/todolist.png",
+      "description": "This Project is made to have a To do list so that it becomes handy to know what you want.",
+      "skills": ["NodeJs", "Javascript","HTML","CSS"],
+      "demo": "https://www.todolist.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Keeper-App",
+      "imageSrc": "projects/keeperapp.png",
+      "description": "This project is a clone to google Note to keep a not of your favourite things",
+      "skills": ["React", "HTML", "Node","Javascript","CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

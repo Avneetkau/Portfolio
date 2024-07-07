@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Technical Intern",
+      "organisation": "Vilambi Solutions Pvt Ltd",
+      "startDate": "February, 2022",
+      "endDate": "June,2022",
+      "experiences": ["Worked on their live project", "Made user-friendly UI"],
+      "imageSrc": "history/vilambi.jfif"
+    },
+    {
+      "role": "Technical Intern",
+      "organisation": "Power Grid Coorporation Of India",
+      "startDate": "May, 2018",
+      "endDate": "Aug, 2018",
+      "experiences": ["Worked on Creating Full stack project"],
+      "imageSrc": "history/powergrid.png"
+    },
+    {
+      "role": "Student Learning Program",
+      "organisation": "JIO",
+      "startDate": "August, 2018",
+      "endDate": "September, 2018",
+      "experiences": [
+        "Learned about new technologies",
+        "Helped people by encouraging them to use new tools"
+      ],
+      "imageSrc": "history/jio.png"
+    }
+  ]
